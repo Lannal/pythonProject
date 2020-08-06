@@ -9,9 +9,9 @@ enemy_final_hp=enemy_hp-my_power
 
 def game():
     my_hp=1000
-    my_power=199
+    my_power=200
     enemy_hp=1000
-    enemy_power=195
+    enemy_power=200
 
     while True:
         my_hp=my_hp-enemy_power
